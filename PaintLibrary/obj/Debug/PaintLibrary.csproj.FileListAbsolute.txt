@@ -1,0 +1,14 @@
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\PaintLibrary\PaintLibrary\bin\Debug\PaintLibrary.dll
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\PaintLibrary\PaintLibrary\bin\Debug\PaintLibrary.pdb
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\PaintLibrary\PaintLibrary\obj\Debug\PaintLibrary.csprojAssemblyReference.cache
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\PaintLibrary\PaintLibrary\obj\Debug\PaintLibrary.csproj.CoreCompileInputs.cache
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\PaintLibrary\PaintLibrary\obj\Debug\PaintLibrary.dll
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\PaintLibrary\PaintLibrary\obj\Debug\PaintLibrary.pdb
+D:\Study\4sem\ДЕЛФИ курсовая\PaintLibrary\PaintLibrary\bin\Debug\PaintLibrary.dll
+D:\Study\4sem\ДЕЛФИ курсовая\PaintLibrary\PaintLibrary\bin\Debug\PaintLibrary.pdb
+D:\Study\4sem\ДЕЛФИ курсовая\PaintLibrary\PaintLibrary\bin\Debug\Xceed.Words.NET.dll
+D:\Study\4sem\ДЕЛФИ курсовая\PaintLibrary\PaintLibrary\obj\Debug\PaintLibrary.csprojAssemblyReference.cache
+D:\Study\4sem\ДЕЛФИ курсовая\PaintLibrary\PaintLibrary\obj\Debug\PaintLibrary.csproj.CoreCompileInputs.cache
+D:\Study\4sem\ДЕЛФИ курсовая\PaintLibrary\PaintLibrary\obj\Debug\PaintLibrary.csproj.CopyComplete
+D:\Study\4sem\ДЕЛФИ курсовая\PaintLibrary\PaintLibrary\obj\Debug\PaintLibrary.dll
+D:\Study\4sem\ДЕЛФИ курсовая\PaintLibrary\PaintLibrary\obj\Debug\PaintLibrary.pdb
